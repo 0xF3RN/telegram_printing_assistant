@@ -1,2 +1,6 @@
-# telegram_printing_assistant
-Bot for printing
+# CUPS: Telegram printing assistant
+
+## Installation
+
+## tba
+ - docker (prob)
