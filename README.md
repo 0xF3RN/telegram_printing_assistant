@@ -1,6 +1,5 @@
 # CUPS: Telegram printing bot
-
-## ==Linux only 🐧==
+# Linux only 🐧
 
 ## Preparation list
 
